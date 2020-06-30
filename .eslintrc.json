@@ -3,6 +3,7 @@
   "env": {
     "node": true
   },
+  "ignorePatterns": [ "lib/*" ],
   "extends": [
     "plugin:vue/essential",
     "@vue/standard",
